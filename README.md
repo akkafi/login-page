@@ -46,7 +46,6 @@ HTML Tag          |                         কাজ
 
 15. `<p>` এটি HTML-এর Paragraph Tag। এটি ওয়েবপেজে সাধারণ লেখা বা Paragraph প্রদর্শন করতে ব্যবহৃত হয়।
 
-
 ### About
 
 এই প্রজেক্টটি HTML ও CSS শেখার অংশ হিসেবে তৈরি করেছি। এখানে HTML-এর বিভিন্ন Tag এবং Attribute ব্যবহার করে Login Page-এর Structure তৈরি করেছি। পাশাপাশি CSS-এর বিভিন্ন Property ব্যবহার করে Layout, Alignment, Spacing, Color, Shadow এবং Hover Effect যুক্ত করেছি।
